@@ -1,9 +1,9 @@
 {
- "ip": "Your_minecraft_server_ip_here",
- "port": "Your_server_port_here",
- "name": "Your_bot_name_here",
+ "ip": "TbSx.aternos.me",
+ "port": "63918",
+ "name": "Bark",
  "auto-night-skip": "false",
- "token": "Your_discord_bot_token_here",
- "channelid": "Your_discord_server_channel_id_here",
- "loginmsg": "Your_Login_message_here"
+ "token": "OTA3MjE3NzQ4MTcyNjAzNDIz.YYj-Xg.rR_vXizjbP3Vqc1jU-ugu-6DFdc",
+ "channelid": "907186074927923230",
+ "loginmsg": "Bine Ai Venit!"
 }
